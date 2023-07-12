@@ -1,0 +1,30 @@
+.lista-livros{
+    /* background-color: grey; */
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 08)), url('../../public/background-biblioteca.jpg') ;
+    background-size: cover;
+    background-position: center;
+    /* background-attachment: fixed; */
+}
+
+/* .ag-format-container {
+    width: 1142px;
+    margin: 0 auto;
+  } */
+/* 
+.ag-courses_box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 50px 0;
+} */
+  
+  /* @media only screen and (max-width: 767px) {
+    .ag-format-container {
+      width: 96%;
+    }
+} */

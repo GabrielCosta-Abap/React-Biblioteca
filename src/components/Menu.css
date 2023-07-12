@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&family=Patrick+Hand&family=Roboto:wght@300;400;500&family=Tai+Heritage+Pro:wght@700&family=Ubuntu:wght@400;500;700&display=swap');
+
+.menu{
+    height: 60px;
+    align-items: center; /* Centralize verticalmente */
+    background-color: #000;
+    position: absolute;
+    z-index: 999;
+    padding: 20px;
+    height: 90px;
+  }
+
+.menu a,
+.menu-link {
+  font-family: 'Rubik', sans-serif; /* Aplica a fonte Rubik */
+  font-size: 25px;
+  font-weight: bold;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.menu a:hover,
+.menu-link:hover {
+  background-color: #ffc107;
+}
+
+.menu-mobile {
+  background-color: #000;
+  color: #fff;
+}
+
+.menu-mobile a,
+.menu-mobile-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.menu-mobile a:hover,
+.menu-mobile-link:hover {
+  background-color: #333;
+}
